@@ -1,5 +1,5 @@
 # Software engineering deploma final web project 
-#Univercity of Sabaragamuwa (SUSL)
+#University of Sabaragamuwa (SUSL)
 ---------------------------------------
 
 #HTML
